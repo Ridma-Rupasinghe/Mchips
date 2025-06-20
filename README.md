@@ -8,6 +8,7 @@ Front end ui development of a introduction website
 - React JS
 - TypeScript
 - Tailwind CSS
+- Docker
 
 ### Libraries Used
 
