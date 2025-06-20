@@ -18,9 +18,9 @@ Front end ui development of a introduction website
 
 ## Run
 
-### Run Docker Desktop
+Run Docker Desktop
 
-### Run below two commands in a terminal
+Run below two commands in a terminal
 
 - docker build -t mchips:dev .
 
